@@ -1,0 +1,53 @@
+#home {
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .header {
+    color: #007bff;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .profile-picture {
+    margin-top: 20px;
+  }
+  
+  .profile-picture img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+  }
+  
+  #about {
+    padding: 50px;
+  }
+  
+  h2 {
+    color: #007bff;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  #skills {
+    padding: 50px;
+  }
+  
+  #projects {
+    padding: 50px;
+  }
+  
+  #contact {
+    padding: 50px;
+  }
+  
+  h1, h2 {
+    font-family: Arial, sans-serif;
+  }
